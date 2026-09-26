@@ -1,10 +1,4 @@
-import type { Metadata } from "next";
-import "./globals.css";
-
-export const metadata: Metadata = {
-  title: "Suno Suraksha — Pehle verify karo, phir pay karo",
-  description: "AI-powered anti-scam copilot for Indian families. Real-time scam detection for WhatsApp, voice notes, and messages.",
-};
+import Link from "next/link";
 
 export default function RootLayout({
   children,
@@ -13,7 +7,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-suno-dark text-suno-text min-h-screen">
+      <body className="bg-paper text-ink min-h-screen">
         {children}
       </body>
     </html>

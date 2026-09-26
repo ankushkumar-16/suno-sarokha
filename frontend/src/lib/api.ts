@@ -1,4 +1,4 @@
-export const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+export const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080";
 
 export async function analyzeText(content: string, mediaType: string = "text"): Promise<AnalysisResult> {
   const res = await fetch(`${API_BASE}/api/v1/analyze`, {

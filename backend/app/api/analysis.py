@@ -7,7 +7,7 @@ from fastapi import APIRouter, HTTPException
 from fastapi.responses import StreamingResponse
 from app.models.schemas import (
     AnalysisRequest, RiskResult, AudioTranscript, AnalysisStatus,
-    RiskSignal
+    RiskSignal, AudioUploadRequest
 )
 from app.core.config import settings
 
