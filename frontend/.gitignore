@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build
+.next/
+
+# Testing
+coverage/
+
+# Production
+*.tsbuildinfo
+
+# Env
+.env
+.env.local
+.env.*.local
