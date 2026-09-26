@@ -3,7 +3,7 @@ from pathlib import Path
 from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
-    app_name: str = "Suno Sarokha - AI Anti-Scam Copilot"
+    app_name: str = "Suno Suraksha - AI Anti-Scam Copilot"
     debug: bool = True
     api_prefix: str = "/api/v1"
     

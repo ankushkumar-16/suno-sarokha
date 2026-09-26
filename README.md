@@ -1,10 +1,10 @@
-# Suno Sarokha
+# Suno Suraksha
 
 Pehle verify karo, phir pay karo — AI-powered anti-scam copilot for Indian families.
 
 ## What is this?
 
-Suno Sarokha ek real-time AI safety copilot hai jo deepfake/voice/WhatsApp scams detect karta hai jo Indian families ko target karte hain.
+Suno Suraksha ek real-time AI safety copilot hai jo deepfake/voice/WhatsApp scams detect karta hai jo Indian families ko target karte hain.
 
 ## Features
 

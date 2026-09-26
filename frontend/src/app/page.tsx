@@ -11,7 +11,7 @@ export default function Home() {
           Hackathon Project — AI + Automation
         </div>
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-suno-text mb-3">
-          Suno Sarokha
+          Suno Suraksha
         </h1>
         <p className="text-lg text-suno-muted font-medium">
           Pehle verify karo, phir pay karo
@@ -117,7 +117,7 @@ export default function Home() {
       <footer className="max-w-4xl mx-auto px-4 pb-8 text-center">
         <p className="text-sm text-suno-muted/60">
           Built for hackathon —{" "}
-          <span className="text-suno-muted">Suno Sarokha</span>
+          <span className="text-suno-muted">Suno Suraksha</span>
         </p>
         <p className="text-xs text-suno-muted/40 mt-1">
           Asli police aapko call/message se arrest nahi karti.

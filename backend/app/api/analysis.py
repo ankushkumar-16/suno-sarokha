@@ -183,7 +183,7 @@ def generate_evidence_report(risk_data: dict, scam_type: str, text: str, metadat
     from datetime import datetime
     
     return {
-        "report_title": "Suno Sarokha — Fraud Evidence Summary",
+        "report_title": "Suno Suraksha — Fraud Evidence Summary",
         "generated_at": datetime.now().isoformat(),
         "risk_assessment": {
             "risk_score": risk_data["risk_score"],

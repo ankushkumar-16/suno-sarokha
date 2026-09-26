@@ -1,4 +1,4 @@
-# Suno Sarokha — Backend
+# Suno Suraksha — Backend
 # AI-powered anti-scam copilot API
 
 ## Setup
